@@ -1,0 +1,15 @@
+{
+	"name": "dfravel/craftalgolia",
+	"description": "Integration of the Algolia Search as a Service in a Craft CMS 2.5.x website",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Dave Fravel",
+			"homepage": "https://davefravel.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0",
+		"algolia/algoliasearch-client-php": "^1.18"
+	}
+}
